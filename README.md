@@ -79,7 +79,7 @@ function sayYes() {
         '<div class="card"><h1>Yay!❤️</h1><p>Best decision ever 😘<br>Let play song for us!!</p></div>';
 
     setTimeout(() => {
-        window.open("https://youtu.be/vDmVblfzek4?si=wh2Z8R3M83ir50B7", "_blank");
+        window.open("https://youtu.be/lgTHGZF3BQw?si=wzA3YNxzlzNSmL8_", "_blank");
     }, 1500);
 }
 function moveNo() {
