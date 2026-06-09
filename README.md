@@ -63,10 +63,10 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hey Alxa ❤️!!</h1>
+        <h1>Hey olaa ❤️!!</h1>
         <p>From my heart to this screen,,,,<br>
             <br>
-           Will you be my Valentine? ❤️
+           Will you be my coco cola? ❤️
         </p>
         <button id="yes" onclick="sayYes()">Yes❤️</button>
         
